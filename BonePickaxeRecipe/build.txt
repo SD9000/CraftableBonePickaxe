@@ -1,0 +1,3 @@
+displayName = Craftable Bone Pickaxe
+author = SD9k
+version = 0.1

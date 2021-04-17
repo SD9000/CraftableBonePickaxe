@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Admin\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BonePickaxeRecipe\\BonePickaxeRecipe.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Admin\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BonePickaxeRecipe\\BonePickaxeRecipe.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BonePickaxeRecipe\\BonePickaxeRecipe.csproj",
+        "projectName": "BonePickaxeRecipe",
+        "projectPath": "C:\\Users\\Admin\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BonePickaxeRecipe\\BonePickaxeRecipe.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BonePickaxeRecipe\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "tModLoader.CodeAssist": {
+              "target": "Package",
+              "version": "[0.1.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

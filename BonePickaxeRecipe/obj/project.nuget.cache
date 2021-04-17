@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e/A4jTDgg86GQ1uKUBABpm2bzpLKIv8aaFcUeOGhCdVEIXW1+sYVEYJoFJX4Tmsk5ykB2HAwCOl5iE1dxlA1ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BonePickaxeRecipe\\BonePickaxeRecipe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
